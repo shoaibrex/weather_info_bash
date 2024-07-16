@@ -3,7 +3,7 @@
 Paper View
 #!/bin/bash
 
-API_KEY="54e36324c15628791a9ace7c12700807"  # Replace with your OpenWeatherMap API key
+API_KEY="YOUR_API_KEY"  # Replace with your OpenWeatherMap API key
 LOCATION="$1"           # The location parameter passed as an argument
 
 # Check if a location parameter is provided
